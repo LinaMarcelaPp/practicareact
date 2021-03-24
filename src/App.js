@@ -9,7 +9,7 @@ import Paper from '@material-ui/core/Paper';
 
 const useStyles = makeStyles((theme) => ({
   root: {
-    flexGrow: 2,
+    flexGrow: 3,
   },
   paper: {
     padding: theme.spacing(4),
